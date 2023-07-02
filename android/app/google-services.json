@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "857474166572",
+    "project_id": "yukkopi-7fee5",
+    "storage_bucket": "yukkopi-7fee5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:857474166572:android:cf04f96bdf989efaefc689",
+        "android_client_info": {
+          "package_name": "com.example.yukopiapps"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "857474166572-lr4rhfc1kse3v74c8c8p769khjjur6po.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.yukopiapps",
+            "certificate_hash": "e9be62f11fc6e4aaab3801e100af7b5da5e96ab6"
+          }
+        },
+        {
+          "client_id": "857474166572-rvh7bucfrvcqjscu95alm82vfp1neb50.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDcbagJCYQGWoWEDN1yTqxWQ9jU0hoiHNM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "857474166572-rvh7bucfrvcqjscu95alm82vfp1neb50.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
